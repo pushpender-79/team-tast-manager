@@ -11,6 +11,7 @@ const app = express();
 app.use(cors({
   origin: [
     "http://localhost:5173",
+    "https://team-tast-manager.vercel.app",
     "https://team-tast-manager-rl0zdmhz3-pushpender-chauhans-projects.vercel.app"
   ],
   credentials: true,
