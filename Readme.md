@@ -8,10 +8,11 @@ TaskFlow allows teams to create projects, assign tasks, manage members, and trac
 # 🚀 Live Demo
 
 ## Frontend
-Add your deployed frontend URL here
+https://team-tast-manager.vercel.app
 
 ## Backend API
-Add your deployed backend URL here
+https://team-tast-manager-production.up.railway.app
+
 
 ---
 
@@ -122,6 +123,7 @@ team-task-manager/
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
 git clone https://github.com/pushpender-79/team-task-manager.git
+
 cd team-task-manager
 🔧 Backend Setup
 cd server
@@ -177,7 +179,3 @@ MongoDB Atlas Database
 👨‍💻 Author
 
 Pushpender Chauhan
-
-📄 License
-
-This project is developed for assessment.
